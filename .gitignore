@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/ConsoleApp_TableAPI_SampleCRUD/Properties/ServiceDependencies/etwebapp-cosmosdbnosql - Web Deploy/profile.arm.json
+/ConsoleApp_TableAPI_SampleCRUD/Settings.job
